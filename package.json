@@ -1,0 +1,33 @@
+{
+    "name": "m-08-final",
+    "version": "1.0.0",
+    "description": "ejercicio final modulo 8",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Isabel-de-la-Cuadra/Final-Drilling-Modulo08-BootcampJS.git"
+    },
+    "keywords": [],
+    "author": "Rodolfo Parada",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Isabel-de-la-Cuadra/Final-Drilling-Modulo08-BootcampJS/issues"
+    },
+    "homepage": "https://github.com/Isabel-de-la-Cuadra/Final-Drilling-Modulo08-BootcampJS#readme",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.20.2",
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "jsonwebtoken": "^9.0.1",
+        "pg": "^8.11.2",
+        "pg-hstore": "^2.3.4",
+        "sequelize": "^6.32.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
